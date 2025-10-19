@@ -91,6 +91,7 @@
 
 ## Структура проекта
 
+```bash
 car-price-prediction/
 │
 ├── notebooks/
@@ -101,6 +102,7 @@ car-price-prediction/
 ├── LICENSE
 ├── README.md
 └── requirements.txt
+```
 
 Проект включает модуль `utils.py` с набором кастомных функций для:
 - Визуализации распределений и корреляций
