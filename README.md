@@ -1,4 +1,5 @@
 # Определение стоимости автомобилей с пробегом
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE) 
 
 ## Описание проекта
 
