@@ -92,7 +92,7 @@
 ## Структура проекта
 
 ```bash
-car-price-prediction/
+Car-Price-Prediction/
 │
 ├── notebooks/
 │   ├── car_price_prediction.ipynb  # Основная тетрадка проекта
